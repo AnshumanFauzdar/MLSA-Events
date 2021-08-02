@@ -1,13 +1,5 @@
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/40523329/127850620-6f1812ff-a32c-4c48-875e-7d63a1f601d3.png" alt="MLSA" width="200px">
-</p>
-
----
-# Repo for keeping track of events organised under MLSA program
-
-## 1. Git, Github and CI/CD
-<img src="https://user-images.githubusercontent.com/40523329/127851002-e2b352ec-b1d2-4355-bf37-24bf5584e501.png" alt="MLSA">
+# Git, Github and CI/CD
+<center><img src="https://user-images.githubusercontent.com/40523329/127851002-e2b352ec-b1d2-4355-bf37-24bf5584e501.png" alt="MLSA"></center>
 
 ### Topics covered:
 
@@ -37,3 +29,7 @@
 - Why we need this?
 - How we can use in GitHub?
 - Some pro tips for GitHub actions
+
+## Resources
+- Git Cheat Sheets
+- Intro to Git and GitHub Ebook
