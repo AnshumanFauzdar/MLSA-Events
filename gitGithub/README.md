@@ -33,3 +33,10 @@
 ## Resources
 - Git Cheat Sheets
 - Intro to Git and GitHub Ebook
+
+## Contributors
+<p align="center">
+<a href="https://github.com/AnshumanFauzdar/MLSA-Events/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AnshumanFauzdar/MLSA-Events" />
+</a>
+</p>
