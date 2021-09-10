@@ -1,3 +1,16 @@
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+/* Optional: show position indicator in red */
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+
 body {
 	width: 100wh;
 	height: 90vh;
@@ -101,3 +114,53 @@ h6 {
 	background-position: 50% 50%;
 	border-radius: 100%;
 }
+
+.figure-main {
+    width: 14.285%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.figure-picture {
+    width: 25%;
+    float: left;
+    margin: 0;
+    text-align: center;
+    padding: 0;
+}
+
+.bottom-text
+{
+	display: inline-block; 
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+
+
+@media screen and (max-width: 580px) {
+	.figure-main {
+		width: 40%;
+		float: left;
+		margin: 0;
+		text-align: center;
+		padding: 0;
+		padding-bottom: 5%;
+	}
+
+	.figure-picture {
+		width: 100%;
+		float: left;
+		margin: 0;
+		text-align: center;
+		padding: 0;
+	}
+
+	.bottom-text
+{
+	display: inline-block; 
+	padding-top: 5%;
+	padding-bottom: 15%;
+}
+  }
