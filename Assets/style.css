@@ -116,7 +116,7 @@ h6 {
 }
 
 .figure-main {
-    width: 14.285%;
+    width: 12.5%;
     float: left;
     margin: 0;
     text-align: center;
@@ -141,7 +141,7 @@ h6 {
 
 @media screen and (max-width: 580px) {
 	.figure-main {
-		width: 40%;
+		width: 50%;
 		float: left;
 		margin: 0;
 		text-align: center;
