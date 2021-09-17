@@ -7,7 +7,7 @@
 # Repo for keeping track of events organised under MLSA program
 
 <details>
-<summary><h1> 1. Git, Github and CI/CD </h1></summary>
+<summary><h2> 1. Git, Github and CI/CD </h2></summary>
 
 <img src="https://user-images.githubusercontent.com/40523329/127851002-e2b352ec-b1d2-4355-bf37-24bf5584e501.png" alt="MLSA">
 
