@@ -58,6 +58,3 @@
 - Follow along offline session on these topics
 - GitHub profile making
 - Tips/tricks
-
-contributors list
-1 Sunyy
